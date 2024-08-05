@@ -38,7 +38,11 @@ Contato
 Informações de contato para perguntas e suporte.
 
 Nome: Nathalia Fernandes
+
 Email: oliveiranfernandes@gmail.com
+
 Linkedin:https://www.linkedin.com/in/nathaliafo/
+
 GitHub:https://github.com/NathaliaFernandes28
+
 Instagram: https://www.instagram.com/devprogramadora
