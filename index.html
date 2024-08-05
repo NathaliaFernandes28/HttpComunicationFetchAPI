@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./index.css" />
+    <title>Requisição fetch API</title>
+  </head>
+  <body>
+    <h1>Imagens de Cachorros aleatórios</h1>
+    <p>
+      Ao clicar no botão vamos consumir uma API que mostra imagens aleatórias de
+      Cachorros.
+    </p>
+    <!--Aqui vamos colocar o id para chamar no javascript e colocar as imagens dentro desse id.-->
+    <img
+      class="imgAnimal"
+      id="img_dog"
+      src=""
+      alt="Imagem está sendo carregada!"
+    />
+    <br />
+    <!--Aqui vamos criar um botão com o evento onclick e com o atributo carregarImagem que vai ser chamado no javascript com o endereço da requisição. Ao clicar no botão, vamos chamar a requisição e as imagens vão aparecer. -->
+    <button onclick="carregarImagem()">Carregar Imagens</button>
+  </body>
+  <script src="./index.js"></script>
+</html>

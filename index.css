@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap");
+
+  body {
+    background-color: #13131a;
+  }
+}
+h1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 3rem;
+  font-size: 3rem;
+  color: #fff;
+}
+p {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin-top: 3rem;
+  font-size: 1.5rem;
+  margin-left: 1.5rem;
+  width: 35%;
+  color: #fff;
+  line-height: 2em;
+}
+img {
+  margin: 2em 0 0 8em;
+  width: 15%;
+  height: 15%;
+  border-radius: 1em;
+  border: 1px solid #f3343e;
+}
+button {
+  padding: 0.8em;
+  margin: 1em 0 3em 13em;
+  border-radius: 0.5em;
+  cursor: pointer;
+  color: black;
+  background-color: #f3343e;
+  border: none;
+}
+button:hover {
+  padding: 0.9em;
+}
