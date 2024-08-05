@@ -20,6 +20,7 @@ Projeto feito com o objetivo de treinar a comunicação HTTP feito com o fetch A
 
 ![image](https://github.com/user-attachments/assets/70964af0-6e64-4a76-8e3d-478b3a88d96f)
 
+Site: https://http-comunication-fetch-api.vercel.app/
 
 Pré requisito
 
