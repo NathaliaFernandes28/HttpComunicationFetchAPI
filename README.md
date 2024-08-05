@@ -1,3 +1,5 @@
+## Comunicação HTTP | Fetch API
+
 Índice
 
 Visão Geral
@@ -7,6 +9,7 @@ Contato
 
 Visão Geral
 Desenvolvimento web onde o usuário pode visualizar várias imagens de cachorros ao clicar no botão de carregar imagem.
+
 Projeto feito com o objetivo de treinar a comunicação HTTP feito com o fetch API, usando funções assíncronas, com o async e await. 
 
 ![image](https://github.com/user-attachments/assets/1ecf249b-a091-4b3a-a86f-cdbd66cea165)
@@ -20,12 +23,14 @@ Pré requisito
 Pré requisito necessários para o site funcionar:
 
 Navegador chrome ou qualquer outro navegador que tenha o interpretador Javascript.
+
 VsCode versão 1.90 https://code.visualstudio.com/download
 
 
 Ferramentas
 
 Utilização da API Dog Api <link>https://dog.ceo/dog-api/<link>
+
 Conhecimento avançado de Javascript e comunicação HTTP
 
 Contato
